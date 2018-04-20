@@ -1,2 +1,2 @@
-# HungMan_Game_2017
+# HungMan_Game
 HungMan Game 
